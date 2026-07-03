@@ -1,5 +1,5 @@
 # About me
-I'm a student in university studying ultrafast spectroscopy. This github is specifically for when I choose to take projects that I'll use in my lab. I'll add more to this bio as I add to my code base.
+I'm a student in university studying ultrafast spectroscopy. This github is specifically for when I choose to take on projects that'll be useful in lab research. I'll add more to this bio as I add to my code base.
 <!--
 **jrmcnamee/jrmcnamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
